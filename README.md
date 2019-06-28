@@ -1,2 +1,4 @@
 # MuVisionSensorIII-Fimeware
-MuVisionSensorIII fimeware download and upgrade guide
+MuVisionSensorIII latest fimeware: 
+MuVisionSensorIII upgrade guide: 
+MuVisionSensorIII fimeware: 
